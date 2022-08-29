@@ -9,7 +9,7 @@ Anastasios Tsiamis (ETH), Ingvar Ziemann (KTH), Nikolai Matni (UPenn) George Pap
 - [IEEE CDC 2022 Workshops](https://cdc2022.ieeecss.org/workshop/)
 - [IEEE CDC 2022 Registration](https://cdc2022.ieeecss.org/registration/)
 
-## Motivation and Objectives
+## Motivation and Objective
 
 <div align="justify">Machine learning methods are at an ever increasing pace being integrated into domains that have classically been within the purview of controls. There is a wide range of examples, including perception-based control, agile robotics, and autonomous driving and racing. As exciting as these developments may be, they have been most pronounced on the experimental and empirical sides. To deploy these systems safely, stably, and robustly into the real world, we argue that a principled and integrated theoretical understanding of a) fundamental limitations and b) statistical optimality is needed. With this workshop we seek to bring together theoretical research across machine learning and control theory to address these issues in tasks like system identification, learning-based control and estimation. This workshop will serve as a good reference for a wider audience as to what the current state of the art in this intersection is. We also aim to make existing technical tools in this area more accessible to an audience with a control theoretic background, as they require mathematical tools not typically included in a control theorist’s training (e.g., high-dimensional statistics and learning theory). It is our hope that this workshop also serves as a good reference for a younger audience as to what the current state of the art in this intersection is. 
 
