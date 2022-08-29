@@ -22,12 +22,15 @@ title: Statistical Learning Theory for Control
 email: atsiamis@control.ee.ethz.ch, ziemann@kth.se
 description: >- # this means to ignore newlines until "baseurl:"
   IEEE CDC 2022 Full-Day Workshop
-domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# domain: https://antsiamis.github.io/slt4control_workshop/       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://antsiamis.github.io/slt4control_workshop/  # the base hostname and protocol for your site, e.g. http://example.com
 twitter_username: none
-github_username:  slt4control_workshop
+github_username:  antsiamis
 markdown: GFM
-
+github:
+  is_project_page: false
+plugins:
+  - jekyll-latex
 # Build settings
 theme: jekyll-theme-slate
 plugins:
