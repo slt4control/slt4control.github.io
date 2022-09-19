@@ -180,3 +180,15 @@ Learning how to effectively control unknown dynamical systems is crucial for int
 </details>
 
 
+
+<details>
+  <summary> 
+    <i>Thompson Sampling Achieves Optimal Regret in Linear Quadratic Control</i>, <strong>Sahin Lale (Caltech)</strong> </summary>
+  <br>
+  
+  **Abstract:** 
+Thompson Sampling (TS) is an efficient method for decision-making under uncertainty, where an action is sampled from a carefully prescribed distribution which is updated based on the observed data. In this talk, we will study the problem of adaptive control of stabilizable linear-quadratic regulators (LQRs) using TS, where the system dynamics are unknown. Previous works have established that $\tilde{O}(\sqrt{T})$ frequentist regret is optimal for the adaptive control of LQRs. However, the existing methods either work only in restrictive settings, e.g., require a priori known stabilizing controllers, or utilize computationally intractable approaches. We propose an efficient TS algorithm for the adaptive control of LQRs that attains $\tilde{O}(\sqrt{T})$ regret, even for multidimensional systems, thereby solving the open problem posed in literature. Our result hinges on developing a novel lower bound on the probability that the TS provides an optimistic sample. By carefully prescribing an early exploration strategy and a policy update rule, we show that TS achieves order-optimal regret in adaptive control of multidimensional stabilizable LQRs without a priori known stabilizing controller.  
+  
+  **Biography:** Sahin Lale is a PhD candidate in the Department of Electrical Engineering at Caltech supervised by Prof. Anima Anandkumar and Prof. Babak Hassibi. Previously, he obtained his Master’s degree from Caltech in 2016 and his Bachelor’s degree from Bogazici University, Turkey, in 2015, both in electrical engineering. His research broadly focuses on control theory, reinforcement learning, machine learning and non-convex optimization. 
+</details>
+ 
